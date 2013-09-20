@@ -1,0 +1,9 @@
+devassistant_version: 0.4.0
+original_kwargs:
+  basename: !!python/unicode 'test_flask'
+  dirname: !!python/unicode '.'
+  github: vanhonit
+  name: test_flask
+subassistant_path:
+- python
+- flask
